@@ -13,7 +13,7 @@ COUNTER=`expr ${#IMGS[*]} - 1`
 CURRENTDIR=$(pwd)
 
 echo
-echo "WALLPUNTU - SLIDESHOW MAKER"
+echo "WLPNTU - SLIDESHOW MAKER"
 echo "==================================="
 echo "Original Code from: http://bit.ly/1RT5XL1"
 echo "Modified by @virte-c : https://github.com/virte-c"
