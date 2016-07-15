@@ -16,7 +16,7 @@ echo
 echo "WLPNTU - SLIDESHOW MAKER"
 echo "==================================="
 echo "Original Code from: http://bit.ly/1RT5XL1"
-echo "Modified by @virte-c : https://github.com/virte-c"
+echo "Modified by @r4tch31 : https://github.com/r4tch31"
 echo ""
 echo "Current Directory: ["$CURRENTDIR"]"
 echo "'"$COUNTER"' Images in this Folder."
